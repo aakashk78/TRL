@@ -19,7 +19,7 @@ tab1, tab2, tab3 = st.tabs(['Overview','Compendium of Technologies','Summary of 
 with tab1:
     st.markdown('<h1 style="text-align: center;">Techno-Commercial Assessment of TRL – 6 and above technologies developed in India</h1>',unsafe_allow_html=True)
     st.markdown('<h2 style="text-align: center; font-size: 25px;">Electronics, Tele-communications and Manufacturing</h2>', unsafe_allow_html=True)
-    #st.subheader('Electronics, Tele-communications and Manufacturing')
+    #st.subheader('Electronics, Tele-Communications and Manufacturing')
 
     st.header('Introduction')
 
