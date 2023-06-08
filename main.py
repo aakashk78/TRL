@@ -64,7 +64,7 @@ with tab2:
     st.write("The following compendium provides information of various technologies being developed across various instituions in India, alongwith their TRL and status of commercialization based on the Atal Ranking of Institutions on Innovation Achievements (ARIIA). This compendium consists of technologies from numerous interdisciplinary fields of research. The technologies are classified into three categories: Electronics & Telecommunications (ETC), Manufacturing (M), and Other based on their domain of application.")
     st.dataframe(df, use_container_width= True, height = 800)
     st.write(
-        'Link to [Excel file](https://github.com/aakashk78/TRL/blob/master/Final%20Compendium.xlsx)')
+        'Link to [data file](https://github.com/aakashk78/TRL/blob/master/Final%20Compendium.xlsx)')
 
 with tab3:
     st.header('Summary of Technology Readiness Levels')
